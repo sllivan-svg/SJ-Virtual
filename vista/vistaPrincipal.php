@@ -8,7 +8,7 @@
     <?php include '../modelo/conexion.php'; ?>
 </head>
 <body>
-    <h1>Vista puta</h1>
+    <h1>Vista Principal</h1>
     <button onclick="cerrarsesion()">Cerrar sesion</button>
     <script src="../controlador/controlador.js"></script>
 </body>
